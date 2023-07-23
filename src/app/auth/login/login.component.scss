@@ -1,0 +1,14 @@
+.login-form-container{
+    mat-card{
+        max-width: 500px;
+        margin: 0 auto;
+        margin-top: 200px;
+        overflow: hidden;
+        mat-card-content{
+            form{
+                display: flex;
+                flex-direction: column;
+            }
+        }   
+    }
+}
